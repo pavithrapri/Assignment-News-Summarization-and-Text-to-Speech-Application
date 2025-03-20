@@ -1,0 +1,16 @@
+flask
+flask_cors
+streamlit
+beautifulsoup4
+requests
+transformers
+torch
+gtts
+nltk
+Flask
+requests
+bs4
+textblob
+gtts
+nltk
+streamlit
